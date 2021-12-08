@@ -1,0 +1,3 @@
+[submodule "ep_cetana_plugin"]
+	path = ep_cetana_plugin
+	url = https://github.com/alex-pavlides/ep_cetana_plugin.git
